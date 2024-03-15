@@ -46,29 +46,29 @@
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">tgl_pengembalian</th>
+      <th scope="col">nama</th>
+      <th scope="col">barang</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td>01-02-24</td>
+      <td>delon</td>
+      <td>laptop</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Jacob</td>
+      <td>02-02-24</td>
       <td>Thornton</td>
-      <td>@fat</td>
+      <td>botol</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
+      <td>10-02-24</td>
+      <td>sabir</td>
+      <td>gas portable</td>
     </tr>
   </tbody>
 </table>
